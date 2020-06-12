@@ -14,7 +14,7 @@ import re
 # pip install request
 
 # update your userids
-pushurl = 'https://api.telegram.org/bot969014158:AAErfGwxgELxhWhSRDUl3SjqghJOtics_Z8/sendMessage?parse_mode=HTML&disable_web_page_preview=1&chat_id=-1001379644046&text='
+pushurl = 'https://api.telegram.org/bot969014158:AAErfGwxgELxhWhSRDUl3SjqghJOtics_Z9/sendMessage?parse_mode=HTML&disable_web_page_preview=1&chat_id=-1001379644046&text='
 
 
 def getcookies():
